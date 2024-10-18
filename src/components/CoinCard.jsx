@@ -9,17 +9,19 @@ import {
   } from "@chakra-ui/react";
 import { Link } from 'react-router-dom';
 
+
 const CoinCard = ({ id,name, img, symbol, price,currencySymbol="₹" }) => {
   return (
    
-        <Link to={`/coin/${id}`} target="blank">
+        <Link to={`/coin/${id}`} >
           <VStack
             w={"52"}
             shadow={"lg"}
             p={"8"}
-            borderRadius={"lg"}
+            borderRadius={"3xl"}
             transition={"all 0.3s"}
-            m={"10"}
+            m={"7"}
+            backgroundColor={"gray.200"}
             css={{
               "&:hover": {
                 transform: "scale(1.1)",
