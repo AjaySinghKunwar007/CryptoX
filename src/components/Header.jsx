@@ -6,13 +6,13 @@ import { Link } from "react-router-dom";
 const Header = () => {
   return (
     <HStack p={"4"} shadow={"base"} bgColor={"gray.900"}>
-      <Button variant={"unstyled"} color={"white"}>
+      <Button variant={"unstyled"} color={"white"}ml={"3"}>
         <Link to={"/"}>Home</Link>
       </Button>
-      <Button variant={"unstyled"} color={"white"}>
+      <Button variant={"unstyled"} color={"white"}ml={"3"}>
         <Link to={"/exchanges"}>Exchanges</Link>
       </Button>
-      <Button variant={"unstyled"} color={"white"}>
+      <Button variant={"unstyled"} color={"white"}ml={"3"}>
         <Link to={"/coins"}>Coins</Link>
       </Button>
     </HStack>

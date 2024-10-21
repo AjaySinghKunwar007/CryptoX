@@ -16,12 +16,12 @@ const CoinCard = ({ id,name, img, symbol, price,currencySymbol="₹" }) => {
         <Link to={`/coin/${id}`} >
           <VStack
             w={"52"}
-            shadow={"lg"}
+            shadow={"2xl"}
             p={"8"}
             borderRadius={"3xl"}
             transition={"all 0.3s"}
             m={"7"}
-            backgroundColor={"gray.200"}
+            backgroundColor={"whiteAlpha.100"}
             css={{
               "&:hover": {
                 transform: "scale(1.1)",

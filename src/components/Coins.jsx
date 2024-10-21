@@ -71,7 +71,9 @@ const Coins = () => {
               />
             ))}
           </HStack>
-          <HStack w={"full"} overflowX={"auto"} p={"8"}>
+          <HStack 
+          mx="auto"
+          w={"85%"}  overflowX={"auto"} p={"8"}>
             {btns.map((name, index) => (
               <Button key={index}
                 bgColor={"blackAlpha.900"}
