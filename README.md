@@ -23,11 +23,15 @@ CryptoX is a sleek and intuitive cryptocurrency dashboard that provides real-tim
 
 ## 📸 Screenshots
 
-![Homepage](assets/images/homepage-screenshot.png)
-_A screenshot showing the dashboard with live crypto data._
+![Homepage](public/homepage-screenshot.png)
 
-![Coin Detail](assets/images/coin-detail-screenshot.png)
-_A screenshot of an individual coin's detailed page with charts and market data._
+
+![Coin Detail](public/coin-detail-screenshot.png)
+
+
+
+![Coin Detail](public/coin-detail-screenshot2.png)
+
 
 ## 🙏 Acknowledgments
 
