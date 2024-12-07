@@ -2,6 +2,18 @@
 
 CryptoX is a sleek and intuitive cryptocurrency dashboard that provides real-time data on various cryptocurrencies. Track the latest market trends, prices, and charts in one easy-to-use platform. Whether you’re an investor or enthusiast, CryptoX offers valuable insights into the ever-changing crypto landscape.
 
+## 📸 Screenshots
+
+![Homepage](public/homepage-screenshot.png)
+
+
+![Coin Detail](public/coin-detail-screenshot.png)
+
+
+
+![Coin Detail](public/coin-detail-screenshot2.png)
+
+
 ## 🚀 Features
 
 - **Real-Time Data**: View live cryptocurrency prices, market cap, volume, and price changes.
@@ -21,16 +33,6 @@ CryptoX is a sleek and intuitive cryptocurrency dashboard that provides real-tim
 - **View Data**: View real-time prices of over 1000 cryptocurrencies.
 - **Interactive Charts**: Track the performance of cryptocurrencies over various time periods (24h, 7d, 1m, etc.).
 
-## 📸 Screenshots
-
-![Homepage](public/homepage-screenshot.png)
-
-
-![Coin Detail](public/coin-detail-screenshot.png)
-
-
-
-![Coin Detail](public/coin-detail-screenshot2.png)
 
 
 ## 🙏 Acknowledgments
